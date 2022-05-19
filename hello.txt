@@ -1,2 +1,9 @@
 This is hello world in master
+<<<<<<< HEAD
 chnage in local
+=======
+
+
+
+chnage in remote
+>>>>>>> 54fb33f9c6abf46eb38d1955b0675a68935083c1
